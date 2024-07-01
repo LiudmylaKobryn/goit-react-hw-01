@@ -1,0 +1,25 @@
+.container {
+  margin: 0 auto;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  justify-content: center;
+  align-items: center;
+  border: 1px black solid;
+  font-size: 26px;
+}
+
+th {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 100%;
+  font-weight: 400;
+}
+
+tr {
+  text-align: center;
+}
+
+td {
+  border: 1px black solid;
+}
